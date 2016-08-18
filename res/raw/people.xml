@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="people.xsd" generated="2011-11-05T23:09:59">
+
+<person>
+    <name>Ronaldo</name>
+    <age>31</age>
+    <des>Cristiano Ronaldo dos Santos Aveiro GOIH  known as Cristiano Ronaldo, is a Portuguese professional footballer who plays for Spanish club Real Madrid and the Portugal national team. He is a forward and serves as captain for Portugal. By the age of 22, Ronaldo had received Ballon d'Or and FIFA World Player of the Year nominations. The following year, in 2008, he won his first Ballon d'Or and FIFA World Player of the Year awards. He followed this up by winning the FIFA Ballon d'Or in 2013 and 2014. In September 2015, Ronaldo scored his 500th senior career goal for club and country.</des>
+    <num>7</num>
+    <club>Real madrid</club>
+    <country>Portuguese</country>
+    <latitude>40.453275</latitude>
+    <longitude>-3.688291</longitude>
+    <image>cluo.png</image>
+    <marker>Santiago Bernabéu Stadium</marker>
+    <url>https://www.youtube.com/watch?v=zI5AGeBNMvM</url>    
+    <position>Forward</position>  
+    <reward>UEFA honours
+UEFA EURO 2004: runner-up
+UEFA EURO 2004: All-Star Squad
+UEFA EURO 2012: Team of the Tournament
+UEFA Champions League: winner 2008, 2014; runner-up 2009
+UEFA Champions League: leading scorer 2007/08, 2012/13, 2013/14, 2014/15 (joint)
+UEFA Super Cup: 2014
+UEFA Best Player in Europe Award: 2013/14
+UEFA Club Footballer of the Year: 2008
+UEFA Club Forward of the Year: 2008
+UEFA.com users' Team of the Year: 2004, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014</reward>
+</person>
+<person>
+    <name>Bale</name>
+    <age>24</age>
+    <des>Gareth Frank Bale  is a Welsh professional footballer who plays as a winger for Real Madrid and the Wales national team. He began his professional career at Southampton, playing at left-back and earning acclaim as a free kick specialist. Bale moved to Tottenham Hotspur in 2007, for an eventual £7 million fee. During his time at Spurs, managerial and tactical shifts saw him transform into a more offensive player. From the 2009–10 season, Bale became an integral part of the team, rising to international attention during the 2010–11 UEFA Champions League.In 2011 and 2013 he was named PFA Players' Player of the Year, and was named in the UEFA Team of the Year. In 2013 he was also named PFA Young Player of the Year and the FWA Footballer of the Year.</des>
+    <num>11</num>
+    <club>real madrid</club>
+    <country>Wales</country>
+    <latitude>40.453275</latitude>
+    <longitude>-3.688291</longitude>
+    <image>bale.png</image>
+    <marker>Santiago Bernabéu Stadium</marker>
+    <url>https://www.youtube.com/watch?v=z03hx1Ibsm4</url>    
+    <position>Forward</position>  
+    <reward>
+UEFA Champions League: 2013–14
+Copa del Rey: 2013–14
+FIFA Club World Cup: 2014
+UEFA Super Cup: 2014</reward>
+</person>
+<person>
+    <name>Messi</name>
+    <age>28</age>
+    <des>Lionel Andrés "Leo" Messi  is an Argentine professional footballer who plays as a forward for Spanish club Barcelona and the Argentina national team. Often considered the best player in the world and rated by many in the sport as the greatest of all time, Messi is the only football player in history to win the FIFA Ballon d'Or four times, all of which he won consecutively, and the first player to win three European Golden Shoes. With Barcelona he has won seven La Liga titles and four UEFA Champions League titles, as well as three Copa del Rey titles. A prolific goalscorer, Messi holds the Guinness World Records titles for most goals scored in La Liga (289), a La Liga season (50), a calendar year (91), a Champions League match (five), and most Champions League seasons (five).</des>
+    <num>10</num>
+    <club>FC Barcelona</club>
+    <country>Argentine</country>
+    <latitude>41.381137</latitude>
+    <longitude>2.122841</longitude>
+    <image>messi.png</image>
+    <marker>Barcelona</marker>
+    <url>https://www.youtube.com/watch?v=R2UCrkMttNY</url> 
+    <position>Middle</position> 
+    <reward>La Liga: 2004–05, 2005–06, 2008–09, 2009–10, 2010–11, 2012–13, 2014–15
+Copa del Rey: 2008–09, 2011–12, 2014–15
+Supercopa de España: 2005, 2006, 2009, 2010, 2011, 2013
+UEFA Champions League: 2005–06, 2008–09, 2010–11, 2014–15
+UEFA Super Cup: 2009, 2011, 2015
+FIFA Club World Cup: 2009, 2011</reward>  
+</person>
+<person>
+    <name>Neymar</name>
+    <age>24</age>
+    <des>Neymar da Silva Santos Júnior  commonly known as Neymar or Neymar Jr., is a Brazilian professional footballer who plays for Spanish club FC Barcelona and the Brazil national team as a forward or winger, and is also the captain of the national team.</des>
+    <num>11</num>
+    <club>FC Barcelona</club>
+    <country>Brazilian</country>
+    <latitude>41.381137</latitude>
+    <longitude>2.122841</longitude>
+    <image>neimaer.png</image>
+    <marker>Barcelona</marker>
+    <url>https://www.youtube.com/watch?v=aItdArimyjA</url>   
+    <position>Forward</position>
+    <reward>Santos:
+Campeonato Paulista: 2010, 2011, 2012
+Copa do Brasil: 2010
+Copa Libertadores: 2011
+Recopa Sudamericana: 2012
+Barcelona:
+La Liga: 2014–15
+Copa del Rey: 2014–15
+Supercopa de España: 2013
+UEFA Champions League: 2014–15
+UEFA Super Cup: 2015</reward>  
+</person>
+<person>
+    <name>Neuer</name>
+    <age>24</age>
+    <des>Manuel Peter Neuer  is a German footballer who plays as a goalkeeper for Bayern Munich and the Germany national team. He has been described as a "sweeper-keeper" because of his unique playing style and speed when rushing off his line;[4] he is also known for his quick reflexes, excellent shot-stopping abilities, command of his area and accurate control and distribution of the ball.</des>
+    <num>1</num>
+    <club>Bayern Munich</club>
+    <country>German</country>
+    <latitude>48.219043</latitude>
+    <longitude>11.624675</longitude>
+    <image>nuoyier.png</image>
+    <marker>Bayern Munich</marker>
+    <url>https://www.youtube.com/watch?v=dIGqcIYvq6M</url>    
+    <position>Goadkeeper</position> 
+    <reward>Schalke 04:
+DFB-Pokal: 2010–11
+DFB-Ligapokal: 2005
+DFB-Junior-Cup: 2005
+Bayern Munich:
+Bundesliga: 2012–13, 2013–14, 2014–15
+DFB-Pokal: 2012–13, 2013–14
+DFL-Supercup: 2012
+UEFA Champions League: 2012–13
+UEFA Super Cup: 2013
+FIFA Club World Cup: 2013</reward>
+</person>
+<person>
+    <name>Silva</name>
+    <age>25</age>
+    <des>Thiago Emiliano da Silva , commonly known as Thiago Silva, is a Brazilian professional footballer who plays as a central defender for Ligue 1 club Paris Saint-Germain and the Brazilian national team.</des>
+    <num>2</num>
+    <club>Paris Saint-Germain</club>
+    <country>Brazil</country>
+    <latitude>48.841619</latitude>
+    <longitude>2.253950</longitude>
+    <image>xierwa.png</image>
+    <marker>Le Parc des Princes</marker>
+    <url>https://www.youtube.com/watch?v=x0E1fsN9Vzg</url>  
+    <position>Defender</position>
+    <reward>Fluminense
+Copa do Brasil: 2007
+Milan
+Serie A: 2010–11
+Supercoppa Italiana: 2011
+Paris Saint-Germain
+Ligue 1 (3): 2012–13, 2013–14, 2014–15
+Coupe de France : 2014–15
+Coupe de la Ligue (2): 2013–14, 2014–15
+Trophée des Champions (2): 2013, 2014, 2015</reward>   
+</person>
+<person>
+    <name>Lahm</name>
+    <age>22</age>
+    <des>Philipp Lahm  is a German professional footballer who plays as a right back or defensive midfielder for Bayern Munich. He played for the German national team until his retirement in 2014 from international football. He is the captain of his club, having skippered them to numerous honours including the 2013 UEFA Champions League as part of the Treble. He is also a former captain of his national team, which he led to the 2014 FIFA World Cup, before retiring from international football.</des>
+    <num>21</num>
+    <club>Bayern Munich</club>
+    <country>German</country>
+    <latitude>48.219043</latitude>
+    <longitude>11.624675</longitude>
+    <image>lamu.png</image>
+    <marker>Bayern Munich</marker>
+    <url>https://www.youtube.com/watch?v=b3GaUVJOprM</url>  
+    <position>Defender</position>  
+    <reward>Bayern Munich
+Bundesliga: 2002–03, 2005–06, 2007–08, 2009–10, 2012–13, 2013–14, 2014–15
+DFB-Pokal: 2002–03, 2005–06, 2007–08, 2009–10, 2012–13, 2013–14
+DFL-Ligapokal: 2007
+DFL-Supercup: 2010, 2012
+UEFA Champions League: 2012–13; Runner-up: 2009–10, 2011–12
+UEFA Super Cup: 2013
+FIFA Club World Cup: 2013
+</reward> 
+</person>
+<person>
+    <name>Lewan</name>
+    <age>24</age>
+    <des>Robert Lewandowski is a Polish professional footballer who plays as a striker for German club Bayern Munich, and captains the Poland national team.</des>
+    <num>54</num>
+    <club>Bayern Munich</club>
+    <country>Poland</country>
+    <latitude>48.219043</latitude>
+    <longitude>11.624675</longitude>
+    <image>laiwan.png</image>
+    <marker>Bayern Munich</marker>
+    <url>https://www.youtube.com/watch?v=NNsnmPVZrNc</url>    
+    <position>Forward</position> 
+    <reward>Lech Poznań
+Ekstraklasa: 2009–10
+Polish Cup: 2008–09
+Polish SuperCup: 2009
+Borussia Dortmund
+Bundesliga: 2010–11, 2011–12
+DFB-Pokal: 2011–12
+DFL-Supercup: 2013
+UEFA Champions League Runners-up: 2012–13
+Bayern Munich
+Bundesliga: 2014–15</reward>
+</person>
+<person>
+    <name>Özil</name>
+    <age>27</age>
+    <des>Mesut Özil is a German footballer who plays for English club Arsenal and the German national team. Özil has been a youth national team member since 2006, and a member of the German national team since 2009. He gained international attention during the 2010 FIFA World Cup and was nominated for the Golden Ball Award, which is awarded to the tournament's best player. Özil started his senior career at hometown club Schalke in the Bundesliga in 2006, transferred to Werder Bremen in 2008 and was signed by Real Madrid in August 2010 following his break-out performance at the FIFA World Cup with Germany. On transfer deadline day of summer 2013, he moved to Arsenal for a club-record fee of £42.5 million.The transfer makes him the most expensive German football player of all time.</des>
+    <num>11</num>
+    <club>Arsenal</club>
+    <country>German</country>
+    <latitude>51.555782</latitude>
+    <longitude>-0.108438</longitude>
+    <image>erqier.png</image>
+    <marker>Emirates Stadium</marker>
+    <url>https://www.youtube.com/watch?v=vZqC12DPSmY</url> 
+    <position>Middle</position>
+    <reward>Werder Bremen
+DFB-Pokal: 2008–09
+Real Madrid
+La Liga: 2011–12
+Copa del Rey: 2010–11
+Supercopa de España: 2012
+Arsenal
+FA Cup: 2013–14, 2014–15
+FA Community Shield: 2015
+</reward>    
+</person>
+<person>
+    <name>Rodríguez</name>
+    <age>24</age>
+    <des>James David Rodríguez Rubio known as James Rodríguez, is a Colombian professional footballer who plays for Spanish club Real Madrid and the Colombia national team as an attacking midfielder or winger. James is commonly ranked as one of the best young players in the world.[1][2][3] He is praised for his technique, vision and playmaking skills, and has often been referred to as the successor to his compatriot Carlos Valderrama.</des>
+    <num>10</num>
+    <club>real madrid</club>
+    <country>Colombia</country>
+    <latitude>40.453275</latitude>
+    <longitude>-3.688291</longitude>
+    <image>jluo.png</image>
+    <marker>Santiago Bernabéu Stadium</marker>
+    <url>https://www.youtube.com/watch?v=KWrKmH8q4Mg</url> 
+    <position>Middle</position>   
+    <reward>Envigado
+Categoría Primera B: 2007
+Banfield
+Primera División Argentina: Apertura 2009
+Porto
+UEFA Europa League: 2010–11
+Primeira Liga: 2010–11, 2011–12, 2012–13
+Taça de Portugal: 2010–11
+Supertaça Cândido de Oliveira: 2010, 2011, 2012
+Real Madrid
+FIFA Club World Cup: 2014
+UEFA Super Cup: 2014
+</reward> 
+</person>
+<person>
+    <name>Rooney</name>
+    <age>30</age>
+    <des>Wayne Mark Rooney  is an English professional footballer who plays for and captains both Manchester United and the England national team. He has played much of his career as a forward, but he has also been used in various midfield roles.</des>
+    <num>10</num>
+    <club>Manchester United</club>
+    <country>England</country>
+    <latitude>53.462599</latitude>
+    <longitude>-2.290053</longitude>
+    <image>luni.png</image>
+    <marker>Manchester United Museum </marker>
+    <url>https://www.youtube.com/watch?v=c02Mlb7bjsQ</url>   
+    <position>Middle</position>  
+    <reward>Manchester United
+Premier League (5): 2006–07, 2007–08, 2008–09, 2010–11, 2012–13
+Football League Cup (2): 2005–06, 2009–10
+FA Community Shield (3): 2007, 2010, 2011
+UEFA Champions League (1): 2007–08
+FIFA Club World Cup (1): 2008</reward>
+</person>
+
+</dataroot>

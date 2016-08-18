@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.local.MainActivity" 
+     app:showAsAction="always">
+
+    <item
+        android:id="@+id/previous"
+        android:orderInCategory="100"
+        android:title="@string/previous"
+        app:showAsAction="always"/>
+   <item
+        android:id="@+id/first"     
+        android:title="@string/first"
+        app:showAsAction="always"/>
+   
+   <item
+        android:id="@+id/mapTypeNormal"
+          android:showAsAction="always"
+        android:title="@string/normal"/>
+    <item
+        android:id="@+id/mapTypeSatellite"
+          android:showAsAction="always"
+        android:title="@string/sattelite"/>
+    <item
+        android:id="@+id/mapTypeTerrain"
+          android:showAsAction="always"
+        android:title="@string/terrain"/>
+</menu>
